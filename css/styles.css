@@ -1,20 +1,22 @@
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   color: #747704;
   font-weight: 300;
   }
+
 .text-muted {
-  color: #BCBBBB;
+  color: #bcbbb;
   font-size: 3em;
   font-weight: bold;
   margin-left: 10px;
 
 }
+
 .text-thin {
   font-weight: 100;
 }
 
-.title-super{
+.title-super {
   font-size: 75px;
 }
 
@@ -22,7 +24,7 @@ body {
   margin-top: 20px;
 }
 
-.hr{
+.hr {
   background-color: #eee;
   border: 0 none;
   color: #eee;
@@ -30,16 +32,20 @@ body {
   margin-bottom: 30px;
 }
 
-.url{
+.url {
   font-size: 1.25em
 
 }
 
-h3{
+h3 {
   font-size: 3em;
   font-weight: bold;
 }
 
-h4{
+h4 {
   font-size: 2em;
+}
+
+img {
+  margin: 0 auto;
 }
